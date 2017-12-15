@@ -51,9 +51,9 @@ sampleEbook.addFile("pathToToC",nav=True)
 ```
 
 # Possible features to add in the future
-Auto-generate Table of Contents: if no table of contents is provided, generate one
-Support for epub2: add necessary files to allow epub2 readers to read epubs created by this script
-xhtml format checking: make sure that any xhtml formats are validated and therefore readable
+**Auto-generate Table of Contents:** if no table of contents is provided, generate one  
+**Support for epub2:** add necessary files to allow epub2 readers to read epubs created by this script  
+**XHTML format checking:** make sure that any xhtml formats are validated and therefore readable  
 
 # Additional Information
-I got my list of common mimetypes from [here](http://hul.harvard.edu/ois/////systems/wax/wax-public-help/mimetypes.htm).  It was missing the mimetype for xhtml, so if there are any more crucial mimetypes missing, let me know
+I got my list of common mimetypes from [here](http://hul.harvard.edu/ois/////systems/wax/wax-public-help/mimetypes.htm).  It was missing the mimetype for xhtml, so if there are any more crucial mimetypes missing, let me know.
