@@ -1,5 +1,8 @@
-# epub
-This script is intended to gather files into an epub3.  
+# Epub
+This program will create a program that follows the Epub3 convention.  It can be given the content files of the epub either by directory or by file.  When given a file, it will look for the corresponding mediatype and add the file information to the appropriate metafile containers to allow epub3 readers to recognize each file.  
+
+# Installation
+To use download the files in docs and put them in a directory that has code that will use this program.
 
 # Basic Usage
 To create a simple epub from a directory
